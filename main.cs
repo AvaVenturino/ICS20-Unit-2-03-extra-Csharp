@@ -1,5 +1,5 @@
-// Created by: Mr Coxall
-// Created on: Sep 2020
+// Created by: Ava Venturino
+// Created on: March 22 2022
 //
 // This program accepts user input
 
