@@ -15,7 +15,6 @@ class Program
 
         Console.WriteLine("This program puts together a user's address.");
         Console.WriteLine("");
-      
         Console.Write("Enter your Street Number: ");
         streetNumber = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter your Street Name: ");
